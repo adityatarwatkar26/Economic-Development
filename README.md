@@ -1,7 +1,7 @@
 # Economic_Development_Tableau_Mini_Project
-
-# Economic Development 
+ 
 ![pexels-gabby-k-5849572](https://github.com/user-attachments/assets/f7bebb89-dde2-45b1-805c-867d4b472e27)
+# Economic Development
 
 ## Overview
 Cleaned dataset of economic indicators (1995–2023) for countries including France, Brazil, Japan, Germany, Australia, China, UK, USA, India, and Canada.  
