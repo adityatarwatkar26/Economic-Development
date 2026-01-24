@@ -32,6 +32,30 @@ File: `Economic_Development_Cleaned_Dataset.xlsx`
 - Include population, trade, CO₂, etc.  
 - Provide CSV version
 
+# Dashboard
+<img width="1622" height="860" alt="Screenshot 2026-01-24 132502" src="https://github.com/user-attachments/assets/be20836b-e9c2-4960-a23d-1f204552a2ed" />
+
+## 📊 Dashboard Insights: Global Economic & Employment Overview
+
+### 🔹 Global Unemployment Distribution
+- Unemployment levels vary widely across countries.
+- Certain regions contribute more heavily to global unemployment.
+- Trends fluctuate over time, reflecting economic cycles.
+
+### 🔹 GDP Expansion Trends
+- China and India lead in GDP growth.
+- Emerging economies outperform developed nations.
+- Mature economies show slower but stable growth.
+
+### 🔹 Inflation–Unemployment Metrics
+- Higher inflation often aligns with higher unemployment.
+- France and Brazil indicate economic pressure.
+- Canada and Australia maintain balanced conditions.
+
+### 🔹 Overall Insight
+- Economic growth, inflation, and employment do not move uniformly.
+- Each country reflects unique economic strengths and challenges.
+
 ## Author
 Aditya Tarwatkar  
 adityatarwatkar26@gmail.com
